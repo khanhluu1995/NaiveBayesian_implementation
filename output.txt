@@ -1,0 +1,382 @@
+GeneID,Localization
+G235746,nucleus
+G237100,lipid particles
+G234704,cytoplasm
+G234701,cytoplasm
+G239974,cytoplasm
+G239971,transport vesicles
+G236021,cytoplasm
+G236380,cytoplasm
+G238898,transport vesicles
+G234268,cytoplasm
+G239574,transport vesicles
+G234267,cytoplasm
+G239572,lipid particles
+G240373,lipid particles
+G236813,lipid particles
+G236812,nucleus
+G238132,lipid particles
+G237059,cytoplasm
+G236771,cytoplasm
+G235339,nucleus
+G235337,nucleus
+G235695,nucleus
+G240407,cytoplasm
+G234653,nucleus
+G235299,cytoplasm
+G234651,cytoplasm
+G238920,cytoplasm
+G234258,endosome
+G234256,endosome
+G235291,lipid particles
+G239167,lipid particles
+G239162,cytoplasm
+G235328,nucleus
+G235685,transport vesicles
+G237043,lipid particles
+G235325,nucleus
+G234645,cytoplasm
+G234641,lipid particles
+G234249,cytoplasm
+G234247,cytoplasm
+G235284,cytoplasm
+G236758,lipid particles
+G235719,cytoplasm
+G237436,cytoplasm
+G235679,nucleus
+G235319,nucleus
+G235318,cytoplasm
+G237392,cytoplasm
+G238905,lipid particles
+G235315,nucleus
+G235673,nucleus
+G234633,nucleus
+G234992,cytoplasm
+G235311,nucleus
+G235276,cytoplasm
+G235275,cytoplasm
+G234592,cytoplasm
+G234199,cytoplasm
+G234231,cytoplasm
+G234590,nucleus
+G237429,lipid particles
+G235709,endosome
+G235705,nucleus
+G235704,lipid particles
+G237387,lipid particles
+G239938,nucleus
+G235668,cytoplasm
+G237026,cytoplasm
+G238063,transport vesicles
+G235305,nucleus
+G235268,nucleus
+G238856,cytoplasm
+G234226,cytoplasm
+G234189,nucleus
+G240296,cytoplasm
+G236736,lipid particles
+G234181,cytoplasm
+G240291,transport vesicles
+G237375,cytoplasm
+G234618,nucleus
+G234977,cytoplasm
+G234617,cytoplasm
+G239922,lipid particles
+G234615,cytoplasm
+G234974,nucleus
+G234971,cytoplasm
+G234612,nucleus
+G234579,nucleus
+G235256,lipid particles
+G235255,transport vesicles
+G240327,cytoplasm
+G234216,nucleus
+G234215,cytoplasm
+G234573,cytoplasm
+G239520,cytoplasm
+G234213,cytoplasm
+G234179,nucleus
+G234570,cytoplasm
+G238447,lipid particles
+G234175,cytoplasm
+G237406,cytoplasm
+G238048,cytoplasm
+G235646,transport vesicles
+G234965,cytoplasm
+G239913,cytoplasm
+G239911,lipid particles
+G239517,nucleus
+G234565,cytoplasm
+G234203,cytoplasm
+G234161,cytoplasm
+G237358,lipid particles
+G235638,lipid particles
+G234958,nucleus
+G235635,nucleus
+G236279,cytoplasm
+G234951,nucleus
+G235237,cytoplasm
+G235596,nucleus
+G235236,nucleus
+G235595,cytoplasm
+G235233,nucleus
+G235232,cytoplasm
+G238429,lipid particles
+G237747,cytoplasm
+G238783,lipid particles
+G239060,nucleus
+G234945,nucleus
+G236661,lipid particles
+G235589,cytoplasm
+G235587,nucleus
+G234940,lipid particles
+G239856,transport vesicles
+G235224,cytoplasm
+G235223,lipid particles
+G235220,nucleus
+G235186,nucleus
+G234147,nucleus
+G235183,lipid particles
+G234140,lipid particles
+G238375,lipid particles
+G237337,lipid particles
+G235612,nucleus
+G239847,lipid particles
+G238809,lipid particles
+G235576,cytoplasm
+G235215,nucleus
+G234534,cytoplasm
+G235571,cytoplasm
+G235179,nucleus
+G234531,cytoplasm
+G238800,lipid particles
+G235176,cytoplasm
+G237728,cytoplasm
+G234137,lipid particles
+G238400,lipid particles
+G234490,nucleus
+G234097,cytoplasm
+G234094,nucleus
+G234927,cytoplasm
+G235605,cytoplasm
+G237321,nucleus
+G235602,nucleus
+G234922,nucleus
+G235569,nucleus
+G235208,cytoplasm
+G235567,nucleus
+G239835,lipid particles
+G235565,transport vesicles
+G235562,nucleus
+G239830,transport vesicles
+G234881,nucleus
+G234521,lipid particles
+G235166,nucleus
+G240237,lipid particles
+G234485,nucleus
+G234125,cytoplasm
+G239399,endosome
+G235160,transport vesicles
+G234120,cytoplasm
+G234087,nucleus
+G234086,cytoplasm
+G234081,nucleus
+G237670,transport vesicles
+G239825,cytoplasm
+G234515,nucleus
+G234511,nucleus
+G240227,cytoplasm
+G234112,cytoplasm
+G235150,cytoplasm
+G234470,cytoplasm
+G237700,lipid particles
+G240185,transport vesicles
+G236985,nucleus
+G234905,cytoplasm
+G235547,nucleus
+G235541,cytoplasm
+G234861,cytoplasm
+G235149,nucleus
+G237656,lipid particles
+G234062,cytoplasm
+G235933,cytoplasm
+G235931,endosome
+G235898,nucleus
+G235538,nucleus
+G235537,cytoplasm
+G235893,nucleus
+G235533,nucleus
+G235493,cytoplasm
+G238723,nucleus
+G235098,nucleus
+G235097,nucleus
+G235096,nucleus
+G239364,lipid particles
+G240200,nucleus
+G235094,cytoplasm
+G235928,nucleus
+G236606,endosome
+G235888,nucleus
+G234847,nucleus
+G235524,cytoplasm
+G235882,cytoplasm
+G235488,transport vesicles
+G235520,nucleus
+G235487,nucleus
+G234442,nucleus
+G235121,lipid particles
+G235082,nucleus
+G235917,nucleus
+G236955,lipid particles
+G235081,cytoplasm
+G235916,nucleus
+G235878,lipid particles
+G235517,transport vesicles
+G234837,nucleus
+G235875,nucleus
+G234834,cytoplasm
+G235511,cytoplasm
+G237196,lipid particles
+G234798,nucleus
+G235118,nucleus
+G235476,nucleus
+G234794,cytoplasm
+G234433,cytoplasm
+G235112,transport vesicles
+G234791,cytoplasm
+G235111,cytoplasm
+G234790,cytoplasm
+G235110,nucleus
+G237986,endosome
+G239343,lipid particles
+G235909,nucleus
+G234394,cytoplasm
+G235908,cytoplasm
+G238662,lipid particles
+G235904,nucleus
+G237587,cytoplasm
+G235901,lipid particles
+G235900,cytoplasm
+G235507,transport vesicles
+G235505,nucleus
+G235503,lipid particles
+G235860,nucleus
+G235109,nucleus
+G235108,nucleus
+G235466,cytoplasm
+G235106,nucleus
+G234785,lipid particles
+G235104,transport vesicles
+G234423,cytoplasm
+G235069,nucleus
+G234389,nucleus
+G234780,nucleus
+G234385,cytoplasm
+G240492,lipid particles
+G235857,cytoplasm
+G235855,nucleus
+G234813,cytoplasm
+G234419,nucleus
+G235454,nucleus
+G234414,cytoplasm
+G234773,lipid particles
+G236099,nucleus
+G234412,nucleus
+G234411,cytoplasm
+G235055,cytoplasm
+G239681,lipid particles
+G234373,nucleus
+G234372,cytoplasm
+G235051,cytoplasm
+G235050,nucleus
+G235848,nucleus
+G234806,lipid particles
+G236523,nucleus
+G234802,cytoplasm
+G235446,cytoplasm
+G234405,cytoplasm
+G235440,nucleus
+G236919,nucleus
+G234365,nucleus
+G234364,nucleus
+G239273,transport vesicles
+G240072,cytoplasm
+G235831,cytoplasm
+G237154,cytoplasm
+G234758,cytoplasm
+G237153,lipid particles
+G235795,nucleus
+G235794,nucleus
+G234750,transport vesicles
+G239664,cytoplasm
+G239304,cytoplasm
+G235393,cytoplasm
+G235392,nucleus
+G235033,nucleus
+G240462,endosome
+G238584,lipid particles
+G235424,cytoplasm
+G235783,nucleus
+G235423,cytoplasm
+G234743,nucleus
+G234742,lipid particles
+G235389,cytoplasm
+G234741,cytoplasm
+G235387,cytoplasm
+G236066,cytoplasm
+G235385,cytoplasm
+G238615,lipid particles
+G240057,transport vesicles
+G235818,nucleus
+G235778,lipid particles
+G234739,cytoplasm
+G235777,nucleus
+G235775,transport vesicles
+G238170,lipid particles
+G235414,nucleus
+G235770,cytoplasm
+G238609,lipid particles
+G234339,cytoplasm
+G234698,cytoplasm
+G235377,cytoplasm
+G235376,cytoplasm
+G234333,cytoplasm
+G234299,nucleus
+G234298,cytoplasm
+G237529,transport vesicles
+G240440,lipid particles
+G235804,lipid particles
+G240040,cytoplasm
+G237126,transport vesicles
+G235767,cytoplasm
+G234728,cytoplasm
+G237124,transport vesicles
+G235405,nucleus
+G235402,nucleus
+G235761,lipid particles
+G235369,nucleus
+G234688,nucleus
+G235367,nucleus
+G234683,cytoplasm
+G235362,nucleus
+G235001,nucleus
+G234289,nucleus
+G236838,cytoplasm
+G239593,cytoplasm
+G234283,cytoplasm
+G236831,nucleus
+G237116,endosome
+G235752,nucleus
+G234679,cytoplasm
+G234711,nucleus
+G235356,cytoplasm
+G235354,nucleus
+G235353,transport vesicles
+G235352,nucleus
+G234314,nucleus
+G239588,cytoplasm
+G234671,cytoplasm
+G234273,cytoplasm
+G240380,lipid particles
+G238147,lipid particles
+G235748,nucleus

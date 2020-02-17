@@ -1,0 +1,20 @@
+GeneID,Essential,Class,Complex,Phenotype,Motif,Chromosome,Function,Localization
+G234064,Essential,GTP/GDP-exchange factors (GEFs),Translation complexes,?,PS00824,1,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoplasm
+G234064,Essential,GTP/GDP-exchange factors (GEFs),Translation complexes,?,PS00824,1,PROTEIN SYNTHESIS,cytoplasm
+G234064,Essential,GTP/GDP-exchange factors (GEFs),Translation complexes,?,PS00825,1,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoplasm
+G234064,Essential,GTP/GDP-exchange factors (GEFs),Translation complexes,?,PS00825,1,PROTEIN SYNTHESIS,cytoplasm
+G234065,Non-Essential,ATPases,?,?,?,1,"CELL RESCUE, DEFENSE, CELL DEATH AND AGEING",cytoplasm
+G234065,Non-Essential,ATPases,?,?,?,1,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoplasm
+G234065,Non-Essential,ATPases,?,?,?,1,CELLULAR TRANSPORT AND TRANSPORTMECHANISMS,cytoplasm
+G234065,Non-Essential,ATPases,?,?,?,1,PROTEIN DESTINATION,cytoplasm
+G234065,Non-Essential,Molecular chaperones,?,?,?,1,"CELL RESCUE, DEFENSE, CELL DEATH AND AGEING",cytoplasm
+G234065,Non-Essential,Molecular chaperones,?,?,?,1,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoplasm
+G234065,Non-Essential,Molecular chaperones,?,?,?,1,CELLULAR TRANSPORT AND TRANSPORTMECHANISMS,cytoplasm
+G234065,Non-Essential,Molecular chaperones,?,?,?,1,PROTEIN DESTINATION,cytoplasm
+G234070,Non-Essential,ATPases,Cytoskeleton,Mating and sporulation defects,PS00017,1,"CELL GROWTH, CELL DIVISION AND DNA SYNTHESIS",cytoskeleton
+G234070,Non-Essential,ATPases,Cytoskeleton,Mating and sporulation defects,PS00017,1,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoskeleton
+G234070,Non-Essential,ATPases,Cytoskeleton,Mating and sporulation defects,PS00017,1,CELLULAR TRANSPORT AND TRANSPORTMECHANISMS,cytoskeleton
+G234070,Non-Essential,Motorproteins,Cytoskeleton,Mating and sporulation defects,PS00017,1,"CELL GROWTH, CELL DIVISION AND DNA SYNTHESIS",cytoskeleton
+G234070,Non-Essential,Motorproteins,Cytoskeleton,Mating and sporulation defects,PS00017,1,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoskeleton
+G234070,Non-Essential,Motorproteins,Cytoskeleton,Mating and sporulation defects,PS00017,1,CELLULAR TRANSPORT AND TRANSPORTMECHANISMS,cytoskeleton
+G234073,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell cycle defects,PS00013,1,"CELL GROWTH, CELL DIVISION AND DNA SYNTHESIS",cytoplasm
